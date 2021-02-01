@@ -24,7 +24,7 @@ importlib-resources==1.4.0
 jsonpickle==1.5.0
 ndg-httpsclient==0.5.1
 ordered-set==3.1.1
-packaging==20.3
+packaging==20.9
 pipenv==2020.11.15
 psycopg2-binary==2.8.4
 pyasn1==0.4.8
