@@ -14,7 +14,7 @@ django-tenant-schemas @ git+https://github.com/vrdel/django-tenant-schemas@7d8d2
 django-webpack-loader==0.7.0
 djangorestframework==3.12.2
 djangorestframework-api-key==2.0.0
-djangosaml2==0.18.1
+djangosaml2==1.0.5
 dparse==0.5.0
 elementpath==2.1.2
 filelock==3.0.12
